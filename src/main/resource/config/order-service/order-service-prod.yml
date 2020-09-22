@@ -1,0 +1,7 @@
+spring:
+  profiles: prod
+
+Welcome: Welcome to Order Service PROD Application
+
+dbName: Order Service PROD DB
+dbPassword: Order Service PROD DB Password

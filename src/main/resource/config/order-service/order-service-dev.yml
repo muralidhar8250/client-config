@@ -1,4 +1,7 @@
 spring:
   profiles: dev
 
-Welcome: Welcome to Order Service Application
+Welcome: Welcome to Order Service Dev Application
+
+dbName: Order Service Dev DB
+dbPassword: Order Service Dev DB Password

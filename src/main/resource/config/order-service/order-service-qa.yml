@@ -1,0 +1,7 @@
+spring:
+  profiles: qa
+
+Welcome: Welcome to Order Service QA Application
+
+dbName: Order Service QA DB
+dbPassword: Order Service QA DB Password
