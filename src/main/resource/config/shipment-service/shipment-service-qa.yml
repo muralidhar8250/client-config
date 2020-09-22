@@ -3,5 +3,5 @@ spring:
 
 Welcome: Welcome to Shipment Service QA Application Refreshed
 
-dbName: Shipment Service QA DB
+dbName: Shipment Service QA DB Refreshed
 dbPassword: '{cipher}e114dd906a833f497d35ec040ef3bd5d83d355dd03473c04b5737d94247ad0a0c3dfda3510b23d2c2055ccc04187a32d'
