@@ -1,7 +1,7 @@
 spring:
   profiles: qa
 
-Welcome: Welcome to Shipment Service QA Application
+Welcome: Welcome to Shipment Service QA Application Refreshed
 
 dbName: Shipment Service QA DB
 dbPassword: Shipment Service QA DB Password
