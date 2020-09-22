@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+
+Welcome: Welcome to Order Service Application
